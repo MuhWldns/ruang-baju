@@ -17,18 +17,18 @@
   },
   {
     "id": "RB003",
-    "nama": "Jaket Bomber Esensial Navy",
+    "nama": "Jaket Bomber Esensial Orange",
     "deskripsi": "Outerwear ringan dengan desain bomber klasik yang minimalis, cocok untuk melengkapi penampilan kasual Anda dan memberikan sedikit kehangatan.",
     "harga": "475.000",
-    "gambarUrl": "assets/images/jaket-bomber-navy.jpg",
+    "gambarUrl": "assets/images/orange-bomber-jacket.jpg",
     "kategori": "Outerwear"
   },
   {
     "id": "RB004",
-    "nama": "Gaun Midi Floral Vintage",
-    "deskripsi": "Gaun midi dengan motif floral yang menawan dan sentuhan vintage. Terbuat dari bahan yang ringan dan flowy, ideal untuk acara santai atau semi-formal.",
+    "nama": "Gaun Midi Floral ",
+    "deskripsi": "Gaun midi dengan motif floral yang menawan. Terbuat dari bahan yang ringan dan flowy, ideal untuk acara santai atau semi-formal.",
     "harga": "420.000",
-    "gambarUrl": "assets/images/gaun-midi-floral.jpg",
+    "gambarUrl": "assets/images/floral-midi-dress.jpg",
     "kategori": "Gaun"
   },
   {
