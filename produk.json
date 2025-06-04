@@ -1,34 +1,82 @@
 [
   {
     "id": "RB001",
-    "nama": "Kemeja Linen Elegan",
-    "deskripsi": "Kemeja linen berkualitas tinggi dengan potongan modern, sempurna untuk gaya kasual maupun formal.",
-    "harga": "350.000",
-    "gambarUrl": "assets/images/produk1.jpg",
+    "nama": "Kemeja Linen Elegan Putih",
+    "deskripsi": "Kemeja linen berkualitas tinggi dengan potongan modern, sangat nyaman dan adem. Sempurna untuk gaya kasual maupun semi-formal di cuaca tropis.",
+    "harga": "349.000",
+    "gambarUrl": "assets/images/kemeja-linen-putih.jpg",
     "kategori": "Kemeja"
   },
   {
     "id": "RB002",
-    "nama": "Celana Chino Nyaman",
-    "deskripsi": "Celana chino serbaguna dengan bahan katun stretch yang nyaman untuk aktivitas sehari-hari.",
-    "harga": "275.000",
-    "gambarUrl": "assets/images/produk2.jpg",
+    "nama": "Celana Chino Slim Fit Khaki",
+    "deskripsi": "Celana chino serbaguna dengan bahan katun stretch yang nyaman untuk aktivitas sehari-hari. Potongan slim fit memberikan siluet modern.",
+    "harga": "299.000",
+    "gambarUrl": "assets/images/celana-chino-khaki.jpg",
     "kategori": "Celana"
   },
   {
     "id": "RB003",
-    "nama": "Outerwear Minimalis Premium",
-    "deskripsi": "Outerwear ringan dengan desain minimalis, cocok untuk melengkapi penampilan Anda.",
-    "harga": "450.000",
-    "gambarUrl": "assets/images/produk3.jpg",
+    "nama": "Jaket Bomber Esensial Navy",
+    "deskripsi": "Outerwear ringan dengan desain bomber klasik yang minimalis, cocok untuk melengkapi penampilan kasual Anda dan memberikan sedikit kehangatan.",
+    "harga": "475.000",
+    "gambarUrl": "assets/images/jaket-bomber-navy.jpg",
     "kategori": "Outerwear"
   },
   {
     "id": "RB004",
-    "nama": "Sempak Prabowo",
-    "deskripsi": "Underwear ringan dengan desain minimalis, cocok untuk melengkapi penampilan Anda.",
-    "harga": "450.000",
-    "gambarUrl": "assets/images/produk3.jpg",
-    "kategori": "Outerwear"
+    "nama": "Gaun Midi Floral Vintage",
+    "deskripsi": "Gaun midi dengan motif floral yang menawan dan sentuhan vintage. Terbuat dari bahan yang ringan dan flowy, ideal untuk acara santai atau semi-formal.",
+    "harga": "420.000",
+    "gambarUrl": "assets/images/gaun-midi-floral.jpg",
+    "kategori": "Gaun"
+  },
+  {
+    "id": "RB005",
+    "nama": "Kaos Grafis Abstrak Katun",
+    "deskripsi": "Kaos katun premium dengan desain grafis abstrak yang unik dan artistik. Nyaman dipakai dan mudah dipadupadankan.",
+    "harga": "185.000",
+    "gambarUrl": "assets/images/kaos-grafis-abstrak.jpg",
+    "kategori": "Kaos"
+  },
+  {
+    "id": "RB006",
+    "nama": "Rok Plisket Panjang Hitam",
+    "deskripsi": "Rok plisket panjang berwarna hitam klasik yang elegan. Mudah dipadukan untuk berbagai gaya, dari kasual hingga formal.",
+    "harga": "310.000",
+    "gambarUrl": "assets/images/rok-plisket-hitam.jpg",
+    "kategori": "Rok"
+  },
+  {
+    "id": "RB007",
+    "nama": "Sweater Rajut Oversized Abu",
+    "deskripsi": "Sweater rajut hangat dengan potongan oversized yang trendi dan nyaman. Cocok untuk hari yang lebih dingin atau tampilan santai yang stylish.",
+    "harga": "390.000",
+    "gambarUrl": "assets/images/sweater-rajut-abu.jpg",
+    "kategori": "Sweater"
+  },
+  {
+    "id": "RB008",
+    "nama": "Tas Selempang Kanvas Minimalis",
+    "deskripsi": "Tas selempang berbahan kanvas yang kuat dengan desain minimalis. Praktis untuk membawa barang esensial sehari-hari.",
+    "harga": "220.000",
+    "gambarUrl": "assets/images/tas-selempang-kanvas.jpg",
+    "kategori": "Aksesoris"
+  },
+  {
+    "id": "RB009",
+    "nama": "Kemeja Flanel Kotak Merah",
+    "deskripsi": "Kemeja flanel klasik dengan motif kotak-kotak merah yang timeless. Bahan lembut dan hangat, cocok untuk gaya kasual.",
+    "harga": "360.000",
+    "gambarUrl": "assets/images/kemeja-flanel-merah.jpg",
+    "kategori": "Kemeja"
+  },
+  {
+    "id": "RB010",
+    "nama": "Topi Baseball Bordir Logo",
+    "deskripsi": "Topi baseball katun dengan bordir logo minimalis. Nyaman dipakai dan melindungi dari sinar matahari dengan gaya.",
+    "harga": "150.000",
+    "gambarUrl": "assets/images/topi-baseball-logo.jpg",
+    "kategori": "Aksesoris"
   }
 ]

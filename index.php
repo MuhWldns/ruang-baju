@@ -39,7 +39,7 @@ if (file_exists($json_file_path_index) && is_readable($json_file_path_index)) {
         <div class="container mx-auto px-5 max-w-6xl">
             <h2 class="text-3xl font-bold text-slate-800 mb-12 text-center">Kategori Populer</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
-                <a href="produk.php?kategori=Kemeja"
+                <a href="products.php?kategori=Kemeja"
                     class="block bg-white rounded-xl shadow-lg overflow-hidden group transition-all duration-300 hover:shadow-2xl">
                     <div class="h-56 w-full overflow-hidden">
                         <img src="https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
