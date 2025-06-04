@@ -1,0 +1,34 @@
+[
+  {
+    "id": "RB001",
+    "nama": "Kemeja Linen Elegan",
+    "deskripsi": "Kemeja linen berkualitas tinggi dengan potongan modern, sempurna untuk gaya kasual maupun formal.",
+    "harga": "350.000",
+    "gambarUrl": "assets/images/produk1.jpg",
+    "kategori": "Kemeja"
+  },
+  {
+    "id": "RB002",
+    "nama": "Celana Chino Nyaman",
+    "deskripsi": "Celana chino serbaguna dengan bahan katun stretch yang nyaman untuk aktivitas sehari-hari.",
+    "harga": "275.000",
+    "gambarUrl": "assets/images/produk2.jpg",
+    "kategori": "Celana"
+  },
+  {
+    "id": "RB003",
+    "nama": "Outerwear Minimalis Premium",
+    "deskripsi": "Outerwear ringan dengan desain minimalis, cocok untuk melengkapi penampilan Anda.",
+    "harga": "450.000",
+    "gambarUrl": "assets/images/produk3.jpg",
+    "kategori": "Outerwear"
+  },
+  {
+    "id": "RB004",
+    "nama": "Sempak Prabowo",
+    "deskripsi": "Underwear ringan dengan desain minimalis, cocok untuk melengkapi penampilan Anda.",
+    "harga": "450.000",
+    "gambarUrl": "assets/images/produk3.jpg",
+    "kategori": "Outerwear"
+  }
+]
