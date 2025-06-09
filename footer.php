@@ -10,22 +10,20 @@
 <script>
 document.getElementById('currentYear').textContent = new Date().getFullYear();
 
-// Menandai link navigasi aktif berdasarkan URL halaman saat ini
+
 document.addEventListener('DOMContentLoaded', function() {
     const navLinks = document.querySelectorAll('.main-nav a.nav-link');
-    // Mendapatkan nama file dari URL saat ini (misalnya, "index.php", "produk.php")
-    // Jika Anda menjalankan di root (misal, localhost/index.php atau domain.com/), currentPage bisa jadi "" untuk index.php
-    // atau nama filenya langsung jika bukan di root (misal, localhost/folder/index.php -> index.php)
+
     let currentPage = window.location.pathname.substring(window.location.pathname.lastIndexOf('/') + 1);
-    if (currentPage === "") { // Jika di root, anggap sebagai index.php
+    if (currentPage === "") {
         currentPage = "index.php";
     }
 
 
     navLinks.forEach(link => {
         link.classList.remove('text-blue-500', 'border-blue-500',
-            'border-b-2'); // Hapus kelas aktif dari semua
-        link.classList.add('text-gray-700'); // Kembalikan ke warna default
+            'border-b-2');
+        link.classList.add('text-gray-700');
 
         const linkPage = link.getAttribute('href');
 
