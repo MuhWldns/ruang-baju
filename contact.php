@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "Hubungi Kami"; // Judul spesifik untuk halaman kontak
+$pageTitle = "Hubungi Kami"; 
 require_once 'header.php';
 ?>
 

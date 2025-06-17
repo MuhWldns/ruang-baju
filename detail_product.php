@@ -53,8 +53,8 @@ require_once 'header.php';
                 <p class="text-sm text-slate-500 mb-4">Kategori:
                     <a href="produk.php?kategori=<?php echo urlencode($product['kategori']); ?>"
                         class="text-blue-500 hover:text-blue-700">
-                        <?php echo htmlspecialchars($product['kategori']); ?>
                     </a>
+                    <?php echo htmlspecialchars($product['kategori']); ?>
                 </p>
                 <?php endif; ?>
 
